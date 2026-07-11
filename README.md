@@ -47,30 +47,6 @@
 
 ---
 
-### 🚀 Ajratilgan loyihalar
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🔐 authorization_api</h4>
-      <p>Django REST Framework asosida qurilgan autentifikatsiya va avtorizatsiya tizimi.</p>
-    </td>
-    <td width="50%">
-      <h4>🛍️ b2c-system</h4>
-      <p>Python asosidagi B2C savdo tizimi.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🎬 cinema_api</h4>
-      <p>Kinoteatr uchun API xizmati (Python).</p>
-    </td>
-    <td width="50%">
-      <h4>🛒 eshop</h4>
-      <p>Onlayn do'kon backend tizimi (Python).</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
