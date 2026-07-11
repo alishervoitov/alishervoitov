@@ -1,8 +1,5 @@
+<h1 align="center"><b>Voitov Alisher</b></h1>
 <h3 align="center">Backend Developer | Python & Django mutaxassisi</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Voitov+Alisher" alt="Typing SVG" />
-</p>
 
 ---
 
