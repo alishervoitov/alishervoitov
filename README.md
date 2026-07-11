@@ -6,10 +6,6 @@
 
 ---
 
-### 🧑‍💻 Men haqimda
-
-- 🔭 Hozirda **Django REST Framework** asosidagi loyihalar ustida ishlayapman
-- 🌱 Doimiy ravishda backend arxitektura va optimallashtirish bo'yicha o'rganyapman
 - 📍 Manzil: Toshkent, O'zbekiston
 - 📫 Bog'lanish: [Telegram](https://t.me/alisher_abduvaxobovich)
 
