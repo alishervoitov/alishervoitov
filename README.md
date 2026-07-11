@@ -63,6 +63,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alishervoitov&label=Profil%20tashriflari&color=blue&style=flat" alt="Profile views"/>
-</p>
+
