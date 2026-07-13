@@ -1,10 +1,10 @@
 <h1 align="center"><b>Voitov Alisher</b></h1>
-<h3 align="center">Backend Developer | Python & Django mutaxassisi</h3>
+<h3 align="center">Backend Developer | Python & Django </h3>
 
 ---
 
-- 📍 Manzil: Toshkent, O'zbekiston
-- 📫 Bog'lanish: [Telegram](https://t.me/alisher_abduvaxobovich)
+- 📍 Toshkent, O'zbekiston
+- 📫 [Telegram](https://t.me/alisher_abduvaxobovich)
 
 ---
 
