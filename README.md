@@ -1,4 +1,4 @@
-<h1 align="center"><b>Voitov Alisher</b></h1>
+<h1 align="center">Voitov Alisher</h1>
 <h3 align="center">Backend Developer | Python & Django </h3>
 
 ---
