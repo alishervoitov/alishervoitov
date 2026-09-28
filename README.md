@@ -1,5 +1,5 @@
 <h1 align="center">Voitov Alisher</h1>
-<h3 align="center">Backend Developer | Python & Django </h3>
+<h3 align="center">Software Engineer | Python & Django </h3>
 
 ---
 
